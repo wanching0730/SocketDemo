@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocketsDemo</string>
+    <string name="radius">Radius</string>
+    <string name="circumference">Circumference</string>
+    <string name="area">Area</string>
+    <string name="network_unavailable">Network is unavailable</string>
+</resources>
